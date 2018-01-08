@@ -1,0 +1,24 @@
+{
+  "name": "nextjs-demo",
+  "version": "1.0.0",
+  "description": "Testing out next.js",
+  "main": "index.js",
+  "scripts": {
+    "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "reactdom"
+  ],
+  "author": "Aaron Cordova",
+  "license": "MIT",
+  "dependencies": {
+    "next": "4.2.1",
+    "react": "16.2.0",
+    "react-dom": "16.2.0"
+  }
+}
