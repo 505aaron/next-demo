@@ -4,7 +4,6 @@
   "description": "Testing out next.js",
   "main": "index.js",
   "scripts": {
-    "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start"
