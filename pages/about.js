@@ -69,11 +69,8 @@ export default () => {
 
   return (
     <div>
-      <Basic>Cool Styles</Basic>
-      <Combined>
-        With <code>:hover</code>.
-      </Combined>
-      <Animated animation={bounce}>Let's bounce.</Animated>
+      <Basic>About Us</Basic>
+      <Animated animation={bounce}>We bounce well.</Animated>
     </div>
   )
 }
